@@ -1,2 +1,2 @@
-# CoreySchafer
-Practicing demo project from Corey Schafer
+#Django Blog
+My first Django Blog
